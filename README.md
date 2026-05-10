@@ -24,4 +24,7 @@
 
 9. Array Flatten in JavaScript:
     LINK: https://js-ck.hashnode.dev/array-flatten-in-javascript
-10.          
+   
+11. JavaScript Modules: Import and Export Explained:
+    LINK: https://hashnode.com/draft/69fe1b48f239332df4ec8264          
+    
